@@ -1,0 +1,6 @@
+claves pública y secreta creadas y firmadas.
+
+pub   rsa4096 2026-04-22 [SC]
+      832D7BD47F738AA933F44A99B23B2E3135637B94
+uid                      Deogracias-Esono-N (mi configuracion para habilitat gpg en ghithub) <deograciasesononguema0@gmail.com>
+sub   rsa4096 2026-04-22 [E]
